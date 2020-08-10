@@ -1,8 +1,5 @@
 .display-4 {
     text-align: center;
+    background-color: rgb(47, 187, 187);
 }
 
-#searchBar {
-    position: relative;
-    float: left;
-}
